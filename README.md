@@ -18,9 +18,9 @@ FEATURES OF MUSONIC :
 * Play, pause,rewind your music.
 * Listen to music even on your device background—no need to keep the app open all
 the time.
-<h2>Selective Screenshots of the project<h2>
+## Selective Screenshots of the project
 
-<h3>Lottie Animation<h3>
+### Lottie Animation
 A Lottie is a JSON-based animation file format that allows you to ship animations on any platform as easily as shipping static assets. 
 we used this "girl listening to music" animation to play when the user opens this app.
   
